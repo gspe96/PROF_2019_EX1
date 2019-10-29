@@ -9,7 +9,7 @@ public class ClaseExamen {
 		
 		// Nodo 1
 		while( a > b) {
-			// Nodo 
+			// Nodo 2
 			a--;
 		}
 		
